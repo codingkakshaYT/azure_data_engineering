@@ -22,5 +22,37 @@ This repository is organized to provide you with all the necessary information y
 
 To get started, clone this repository to your local machine:
 
+Topics Covered
+1. Azure Data Factory (ADF)
+Overview of ADF
+
+Data movement and transformation pipelines
+
+Integration with other Azure services
+
+2. Azure Data Bricks (ADB)
+Introduction to Data Bricks
+
+Setting up and using notebooks
+
+Spark-based data processing and analytics
+
+3. SQL in Azure
+SQL Server on Azure
+
+Query optimization and performance tuning
+
+Data modeling and management
+
+4. Other Azure Tools
+Azure Functions
+
+Azure Logic Apps
+
+Azure Storage and Azure Synapse Analytics
+
+Contributing
+If you would like to contribute to this repository by adding more examples, improvements, or corrections, feel free to submit a pull request. You are also welcome to open issues if you encounter any problems or have suggestions for future topics.
+
 
 
