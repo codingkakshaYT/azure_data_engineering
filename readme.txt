@@ -1,6 +1,6 @@
-# Coding Kaksha - Azure Tools Playlist
+#Coding Kaksha - Azure Tools Playlist
 
-Welcome to the **Coding Kaksha** repository! This repository serves as a reference for the coding-related information featured in the YouTube playlist uploaded on the [Coding Kaksha YouTube Channel](https://www.youtube.com/channel/UCLUwoDd1qkXSa5-DsEOPL0A/).
+Welcome to the Coding Kaksha repository! This repository serves as a reference for the coding-related information featured in the YouTube playlist uploaded on the [Coding Kaksha YouTube Channel](https://www.youtube.com/channel/UCLUwoDd1qkXSa5-DsEOPL0A/).
 
 In this repository, you will find all the relevant details, code snippets, and explanations related to the following topics covered in the videos:
 
